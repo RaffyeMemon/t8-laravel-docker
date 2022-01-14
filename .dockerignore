@@ -1,0 +1,9 @@
+./src/vendor
+**.git
+.idea
+**.gitignore
+**.gitattributes
+**.sass-cache
+
+Dockerfile
+docker-compose.yml
